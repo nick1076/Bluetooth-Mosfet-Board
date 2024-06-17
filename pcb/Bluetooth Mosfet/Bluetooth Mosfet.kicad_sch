@@ -1539,19 +1539,19 @@
 	(junction
 		(at 40.64 82.55)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "86f911be-f951-4945-abfa-478342b77a49")
 	)
 	(junction
 		(at 41.91 72.39)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 0 1)
 		(uuid "98f63efa-1a11-4a7b-9029-57071dd80b11")
 	)
 	(junction
 		(at 55.88 82.55)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 0 0 0 1)
 		(uuid "d1fd02d1-559b-4131-a1c4-5ea575bef45d")
 	)
 	(junction
@@ -1589,6 +1589,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 0 1)
 		)
 		(uuid "0affe354-c3b2-4945-a051-ea2cd8e5c5a2")
 	)
@@ -1599,6 +1600,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "0ee06862-6aea-4b7f-886d-9bd22d4fb653")
 	)
@@ -1719,6 +1721,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "4a3adcf1-cb32-4cca-8837-f0dc65b28aed")
 	)
@@ -1784,6 +1787,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "64641076-089c-445a-abe1-aaab438b1606")
 	)
@@ -1805,6 +1809,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 0 1)
 		)
 		(uuid "6f833f61-0c76-497f-a91f-91182017886b")
 	)
@@ -1837,6 +1842,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "81e6af2c-9bd1-434d-a0ff-3f9d1836e220")
 	)
@@ -1869,6 +1875,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 0 0 0 1)
 		)
 		(uuid "87d78ead-621f-48bf-80e5-cf9c5b64b224")
 	)
@@ -1944,6 +1951,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "abc1d6ba-190c-40b6-bea9-7a5aecb821ba")
 	)
@@ -1976,6 +1984,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "bb4cbbf9-8a07-4309-a560-30d17bbfbc0a")
 	)
@@ -2018,6 +2027,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "d571ecda-2131-4505-a487-3c67f1a9943c")
 	)
@@ -2028,6 +2038,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 150 0 1)
 		)
 		(uuid "e0ee25c6-3be7-488b-9897-ed6c5a1732c1")
 	)
